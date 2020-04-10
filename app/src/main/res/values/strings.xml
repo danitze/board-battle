@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Board battle</string>
+    <string name="exit">Выйти</string>
+    <string name="settings">Настройки</string>
+    <string name="play">Начать игру</string>
+    <string name="about_prg">О программе</string>
+    <string name="game_name">Игра \"Board battle\"</string>
+    <string name="creator">Разработчик: Андреев Данил Дмитриевич</string>
+    <string name="version">Версия 1.0.0</string>
+    <string name="player_1_move">Ход игрока 1</string>
+    <string name="player_2_move">Ход игрока 2</string>
+    <string name="results">Результаты</string>
+    <string name="player_1_wins">Победа игрока 1!</string>
+    <string name="player_2_wins">Победа игрока 2!</string>
+    <string name="draw">Ничья!</string>
+    <string name="to_menu">В меню!</string>
+    <string name="restart">Играть снова!</string>
+    <string name="skip_player_1">Игрок 1 пропускает ход</string>
+    <string name="skip_player_2">Игрок 2 пропускает ход</string>
+    <string name="do_you_want_to_exit_game">Вы действительно хотите выйти из игры?</string>
+    <string name="do_you_want_to_exit_to_menu">Вы действительно хотите выйти в меню?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>
